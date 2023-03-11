@@ -31,6 +31,12 @@ print("Tuples")
 variable7 = ('Eren','İstanbul','2004')
 print(variable7)
 print(variable7[0])
+#Booleans
+print("-------------------------")
+print("Booleans")
+variable8 = 1==1
+print(variable8)
+
 ############################################
 
 work1 = 4
